@@ -1,5 +1,5 @@
 #################################################################
-# DOIT ETRE LANCER AVEC LES DROITS ADMIN                         #
+#  DOIT ETRE LANCé AVEC LES DROITS ADMIN                        #
 #  en particulier pour accéder aux cacerts                      #
 #  contenus dans les repertoires 'program files'                #
 #  vérifier ci dessous qu'il n'y a pas d'erreur d'accès refusé  #
