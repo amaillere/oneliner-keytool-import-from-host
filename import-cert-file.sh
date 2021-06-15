@@ -1,8 +1,11 @@
 #!/bin/bash
+
+me=`basename "$0"`
 if [[ $# != 2 ]] ; then
-    echo 'usage : $0 file alias'
+    echo 'usage : $me file alias'
     exit 1
 fi
+
 
 cat warning.txt
 
